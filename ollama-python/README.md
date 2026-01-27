@@ -1,5 +1,6 @@
 
 Este projeto demonstra como usar o Ollama, uma plataforma de modelos de linguagem (LLMs) que funcionam localmente no seu computador, integrados com Python.
+
 Com ele, é possível:
 
 Rodar modelos como LLaMA 3, Mistral, Phi-3, Qwen, etc.
